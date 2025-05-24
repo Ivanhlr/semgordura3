@@ -1,0 +1,1 @@
+No Content: https://minhanovafase.online/protocolo2/wp-admin/admin-ajax.php
